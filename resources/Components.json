@@ -1,0 +1,9 @@
+{
+   
+    "frame":["Steel","Fiber"],
+    "handlebar":["Flat_Bars","Riser_Bars"],
+    "seating" :["Soft","Leather"],
+    "wheels":["Withtube","TubeLess"],
+    "chainAssemble":["Roller_chain","sprocket"]
+
+}

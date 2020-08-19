@@ -1,0 +1,121 @@
+[
+    {
+    	"id":"0",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"Withtube",
+        "chainAssemble":"Roller_chain",
+        "pricingDate":"2017-01-01"
+
+    },
+    {
+    	"id":"1",
+        "frame":"Fiber",
+        "handlebar":"Riser_Bars",
+        "seating":"Soft",
+        "wheels":"Withtube",
+        "chainAssemble":"Roller_chain",
+        "pricingDate":"2018-01-01"
+
+    },
+    {
+    	"id":"2",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Leather",
+        "wheels":"Withtube",
+        "chainAssemble":"Roller_chain",
+        "pricingDate":"2017-01-01"
+
+
+    },
+    {
+    	"id":"3",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"Roller_chain",
+        "pricingDate":"2018-01-01"
+
+    },
+    {
+    	"id":"4",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"sprocket",
+        "pricingDate":"2017-01-01"
+
+
+    },
+    
+    {
+    	"id":"5",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"Roller_chain",
+        "pricingDate":"2018-01-01"
+
+    },
+    {
+    	"id":"6",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"sprocket",
+        "pricingDate":"2017-01-01"
+
+
+    },
+    
+     {
+    	"id":"7",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"Roller_chain",
+        "pricingDate":"2018-01-01"
+
+    },
+    {
+    	"id":"8",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"sprocket",
+        "pricingDate":"2017-01-01"
+
+
+    }
+    ,
+     {
+    	"id":"9",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"Roller_chain",
+        "pricingDate":"2018-01-01"
+
+    },
+    {
+    	"id":"10",
+        "frame":"Steel",
+        "handlebar":"Flat_Bars",
+        "seating":"Soft",
+        "wheels":"TubeLess",
+        "chainAssemble":"sprocket",
+        "pricingDate":"2017-01-01"
+
+
+    }
+]
+

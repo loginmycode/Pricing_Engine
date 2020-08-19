@@ -1,0 +1,47 @@
+{
+    "2017":{
+        "frame":{
+            "Steel":"1000",
+            "Fiber":"2000"
+        },
+        "handlebar":{
+            "Flat_Bars":"500",
+            "Riser_Bars":"300"
+        },
+        "seating":{
+            "Soft":"300",
+            "Leather":"400"
+        },
+        "wheels":{
+            "Withtube":"1500",
+            "TubeLess":"2400"
+        },
+        "chainAssemble":{
+            "Roller_chain":"400",
+            "sprocket":"200"
+        }
+    },
+    "2018":{
+        "frame":{
+            "Steel":"1010",
+            "Fiber":"2020"
+        },
+        "handlebar":{
+            "Flat_Bars":"505",
+            "Riser_Bars":"309"
+        },
+        "seating":{
+            "Soft":"310",
+            "Leather":"420"
+        },
+        "wheels":{
+            "Withtube":"1550",
+            "TubeLess":"2470"
+        },
+        "chainAssemble":{
+            "Roller_chain":"460",
+            "sprocket":"280"
+        }
+    }
+
+}
